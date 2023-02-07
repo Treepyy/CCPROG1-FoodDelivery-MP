@@ -5,14 +5,14 @@ applying the concepts learned. I have constructed the functions and their respec
 algorithms and corresponding code by myself. The program was run, tested, and debugged
 by my own efforts. I further certify that I have not copied in part or whole or otherwise
 plagiarized the work of other students and/or persons.
-															Vance Gyan M. Robles, DLSU
+															
 ID# 12279560
 **************************************************************************
 */
 
 /*
  Description: A program which simulates a restaurant's food delivery services.
- Programmed by: Vance Gyan M. Robles, Section S25A
+ Programmed by: -, Section S25A
  Last modified: 12/04/2022
  Version: 1.0.0a
  
